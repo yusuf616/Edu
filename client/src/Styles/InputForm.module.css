@@ -1,0 +1,43 @@
+.form{
+    position: relative;
+    opacity: 0;
+    width: 400px;
+    text-align: center;
+    border: 2px solid rgb(86, 205, 239);
+    padding:  20px ;
+    border-radius: 20px;
+    background-color: rgb(3, 5, 61);
+    max-height: 60%;
+    overflow: scroll;
+}
+
+.input{
+    position: absolute;
+    background-color: none;
+    border: none;
+    display: block;
+   
+    padding: 10px 0px 10px 10px;
+    width: 80%;
+    margin: 0px 0;
+   
+    border-bottom: 2px solid rgb(39, 97, 114);
+}
+
+.input:focus{
+    outline: none;
+    border-color: rgb(85, 211, 249);
+}
+
+.button{
+    color: rgb(52, 155, 186);
+    margin-top:20px;
+    border: 2px solid rgb(39, 97, 114)  ;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.button:hover{
+    color:rgb(85, 211, 249);
+    border-color: rgb(85, 211, 249);;
+}

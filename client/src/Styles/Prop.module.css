@@ -1,0 +1,32 @@
+.prop{
+    position:fixed;
+    width: 0%;
+    height: 0%;
+    background-color: rgba(5, 29, 110, 0.869);
+    z-index: 200;
+    left: 50%;
+    transform: translate(-50%,0);
+    border-radius: 0 0px 30px 30px;
+    border: 3px solid rgb(0, 58, 248);
+}
+
+.rangeinputs{
+    position: absolute;
+    width: 100%;
+    
+    /* background-color: antiquewhite; */
+}
+
+.rangeinputdiv{
+    padding: 10px;
+    color: rgb(20, 138, 143);
+    margin: 20px;
+    border: 3px solid rgb(20, 138, 143);
+    border-radius: 10px;
+}
+.rangeinput{
+    width: 80%;
+    padding: 0px;
+}
+
+

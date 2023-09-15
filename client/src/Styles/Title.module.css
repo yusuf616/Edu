@@ -1,0 +1,19 @@
+.title{
+    position:fixed;
+    padding :20px;
+    text-align:center;
+    width:100%;
+    z-index: 2;
+}
+
+.box{
+    display: inline-block;
+    padding: 20px 40px;
+    border: 3px solid #023e8a;
+    border-radius: 15px;
+    font-size: larger;
+    font-weight: 700;
+    background-color: #7fa1cf;
+}
+
+

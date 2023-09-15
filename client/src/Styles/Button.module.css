@@ -1,0 +1,14 @@
+.buttondiv{
+    color: rgb(20, 138, 143);
+    margin: 10px 20px;
+    border: 3px solid rgb(20, 138, 143);
+    border-radius: 10px;
+}
+.button{
+    padding: 10px 20px;
+    font-size: larger;
+    font-weight: 700;
+    background-color: #0000;
+    border: none;
+    color: inherit;
+}
